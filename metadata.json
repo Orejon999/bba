@@ -1,0 +1,7 @@
+{
+  "name": "Inventario Inteligente con IA",
+  "description": "Sistema de gestión de inventario automatizado que procesa facturas mediante Gemini IA para actualizar stock y detectar escasez.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
